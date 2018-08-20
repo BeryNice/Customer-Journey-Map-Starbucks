@@ -12,7 +12,7 @@ Los puntos de contacto detectados son al entrar al establecimiento, al pedir las
 
 ![Customer Journey Map](images/customer-journey-map.png)
 
-[Customer Journey Map en Drive]https://drive.google.com/open?id=1l0HWULn9NpRK-XEZN9MMff4-TjAqh5Eq
+[Customer Journey Map en Drive](https://drive.google.com/open?id=1l0HWULn9NpRK-XEZN9MMff4-TjAqh5Eq)
 
 ### Experiencia del usuario
 
